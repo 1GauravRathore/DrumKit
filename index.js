@@ -44,7 +44,7 @@ function makeSound(key){
     break;
 
      case "k":
-     var kickbass=new Audio("sounds/fun.mpeg");
+     var kickbass=new Audio("sounds/kick-bass.mp3");
      kickbass.play();
      break;
 
